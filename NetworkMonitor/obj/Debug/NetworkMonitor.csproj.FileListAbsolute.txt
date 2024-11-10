@@ -1,0 +1,14 @@
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe.config
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.pdb
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.AssemblyReference.cache
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.NetworkMonitor.resources
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.Properties.Resources.resources
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.GenerateResource.cache
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.CoreCompileInputs.cache
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.exe
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.pdb
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe.manifest
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.application
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.exe.manifest
+C:\Users\eness\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.application
